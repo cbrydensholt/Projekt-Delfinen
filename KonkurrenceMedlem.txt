@@ -1,3 +1,6 @@
+54	biver	true	false		0
+4	anders	true	false		0
+21	jens	true	false		0
 21	Flemming	true	true	Butterfly	100
 15	Lars	true	false	Freestyle	125
 7	Ib	true	false	Freestyle	143
