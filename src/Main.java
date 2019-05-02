@@ -12,7 +12,7 @@ public class Main {
 
     public void run() {
 
-        // Test
+        // Testfafsrasra
 
         // Util metoder
         PrisUdregner pris = new PrisUdregner();
