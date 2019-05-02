@@ -12,6 +12,8 @@ public class Main {
 
     public void run() {
 
+        // Test
+
         // Util metoder
         PrisUdregner pris = new PrisUdregner();
         FilHandtering fil = new FilHandtering();
