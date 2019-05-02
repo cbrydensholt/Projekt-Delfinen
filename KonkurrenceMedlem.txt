@@ -1,0 +1,3 @@
+21	Flemming	true	true	Butterfly	100
+15	Lars	true	false	Freestyle	125
+7	Ib	true	false	Freestyle	143
